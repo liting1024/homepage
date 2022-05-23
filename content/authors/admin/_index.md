@@ -18,9 +18,8 @@ bio: My research interests include distributed robotics, mobile computing and pr
 
 # Interests to show in About widget
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - 人工智能
+  - 移动应用开发
 
 # Education to show in About widget
 education:
@@ -45,7 +44,7 @@ social:
     link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
   - icon: github
     icon_pack: fab
-    link: https://github.com/gcushen
+    link: https://github.com/liting1024
   - icon: linkedin
     icon_pack: fab
     link: https://www.linkedin.com/
