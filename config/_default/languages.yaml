@@ -11,15 +11,33 @@ en:
 # Uncomment the lines below to configure your website in a second language.
 zh:
   languageCode: zh-Hans
-  contentDir: content/zh
+  contentDir: content
   title: Liting's Homepage
-#  params:
-#    description: Site description in Chinese...
-#    menu:
-#      main:
-#        - name: 关于
-#          url: '#about'
-#          weight: 1
-#         - name: 与我联系
-#          url: '#contact'
-#          weight: 1
+  params:
+    description: 中文个人主页
+    menu:
+      main:
+        - name: 主页
+          url: '#about'
+          weight: 10
+        - name: 帖子
+          url: '#posts'
+          weight: 20
+        - name: 项目
+          url: '#projects'
+          weight: 30
+        # - name: Talks
+        #   url: '#talks'
+        #   weight: 40
+        # - name: Publications
+        #   url: '#featured'
+        #   weight: 50
+        - name: 与我联系
+          url: '#contact'
+          weight: 60
+
+        # Link to a PDF of your resume/CV from the menu.
+        # To enable, copy your resume/CV to `static/uploads/resume.pdf` and uncomment the lines below.
+        - name: CV
+          url: uploads/resume.pdf
+          weight: 70

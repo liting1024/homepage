@@ -46,5 +46,5 @@ experience:
     description: Taught electronic engineering and researched semiconductor physics.
 
 design:
-  columns: '0'
+  columns: '2'
 ---
