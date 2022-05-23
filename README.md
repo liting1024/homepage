@@ -14,4 +14,4 @@ https://wowchemy.com/docs/getting-started/customization/
 
 ## 模版文件夹
 存了所有暂时没用上的模版
-原来位于content/home
+原来位于content/
